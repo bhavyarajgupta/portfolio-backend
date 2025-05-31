@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Iad8+g/XXxq8dcAoPqE+wNVYUCDOFEwuCfLTdGZIUJk=",
+  "Source": "OpenAIAgentApi",
+  "BasePath": "_content/OpenAIAgentApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
